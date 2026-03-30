@@ -8,7 +8,7 @@ The goal is to analyze structural, frequency, and texture-based irregularities t
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Detect anomalies in images using Computer Vision techniques
 * Analyze image consistency through edges, frequency, and texture
@@ -17,7 +17,7 @@ The goal is to analyze structural, frequency, and texture-based irregularities t
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 This project demonstrates the application of:
 
@@ -62,7 +62,7 @@ tamper-detection/
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 This project requires Python 3.7+ and relies on core computer vision libraries. It is designed to be run entirely from the command line without the need for a GUI or interactive notebooks.
 
@@ -130,7 +130,7 @@ Outputs are saved in the `results/` folder.
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 1. **Preprocessing**
 
@@ -155,7 +155,7 @@ Outputs are saved in the `results/` folder.
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Works best on visibly altered images
 * Cannot detect highly sophisticated edits
@@ -163,7 +163,7 @@ Outputs are saved in the `results/` folder.
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Integrate machine learning classifiers (KNN/SVM)
 * Add localization of tampered regions
@@ -171,7 +171,7 @@ Outputs are saved in the `results/` folder.
 
 ---
 
-## 👩💻 Author
+##  Author
 
 Manasvi Joshi
 
